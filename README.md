@@ -10,4 +10,4 @@ Run nodejs http server
 
 Run deployd server to recive app`s data
 
-`http-server sportsstore -a localhost`
+`dpd -p 5500 deployd\sportsstore\app.dpd`
